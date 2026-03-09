@@ -59,6 +59,8 @@ Se crean múltiples círculos utilizando un arreglo de objetos, cada uno con col
 proyecto-canvas-oop/
 │
 ├── index.html
+|
+├── README.md
 │
 ├── assets
 │   ├── css

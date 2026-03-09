@@ -94,7 +94,7 @@ for (let i = 0; i < 5; i++) {
 
   let miCirculoMultiple = new Circle(randomX, randomY,randomRadius,
     randomColor(), // color del borde
-    i + 1,         // texto
+    "Tec",         // texto
     randomColor(), // color de fondo
     "rgb(17, 24, 36)" // color del texto
   );
